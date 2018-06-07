@@ -1,0 +1,15 @@
+.item-delete {
+    color: #eee;
+    transition: .1s;
+    cursor: pointer;
+}
+
+.item-delete:hover {
+    color: #999;
+}
+.item-desc {
+    cursor: pointer;
+}
+.item-desc:hover {
+    text-decoration: underline;
+}
